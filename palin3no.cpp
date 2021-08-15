@@ -1,6 +1,9 @@
 // Task 2
 // Name: Aftab Ahmed
 
+/* AIM: Write a program to check whether the given number of 
+three digits is palindrome or not? [Do not use loops]. */
+
 #include<iostream>
 using namespace std;
 
